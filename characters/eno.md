@@ -88,7 +88,7 @@ Peaceful or violent:
 Weapon (if applicable):
 Style of fighting:
 
-# Others
+# Additional
 
 Occupation:
 Current home:
