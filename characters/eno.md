@@ -3,10 +3,6 @@
 
 
 # Eno Mimas
-
-First name:
-Middle name(s):
-Surname:
 Age:
 Date of birth:
 Race:
