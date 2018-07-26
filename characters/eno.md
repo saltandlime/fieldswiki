@@ -2,6 +2,6 @@
 <!-- SUBTITLE: A quick summary of Eno -->
 
 # Eno Mimas
-Character summary
+A 13 year old girl 
 # Bio
 Backstory summary
