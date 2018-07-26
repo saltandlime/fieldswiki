@@ -10,5 +10,6 @@ Siblings: [Mikael Mimas, brother](https://fieldswiki.herokuapp.com/characters/mi
 Parents:
 Grandparents (describe relationship):
 Significant Others (describe relationship):
-# Bio
-Backstory summary
+# Situation
+
+# Motivation
