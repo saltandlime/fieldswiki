@@ -1,4 +1,4 @@
-<!-- TITLE: Outlines -->
+<!-- TITLE: Treatments -->
 <!-- SUBTITLE: A quick summary of Treatments -->
 
 # Treatments
