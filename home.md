@@ -5,7 +5,9 @@
 
 An overview of the Fields universe, including: characters, locations, storylines, artworks, timelines.
 
-# Story Summary
+# Logline
+
+# Synopsis
 
 # Characters
 
