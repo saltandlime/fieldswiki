@@ -17,6 +17,8 @@ An overview of the Fields universe, including: characters, locations, storylines
 [Director Chiron](https://fieldswiki.herokuapp.com/characters/director-chiron)
 [AI](https://fieldswiki.herokuapp.com/characters/ai)
 
-# [Locations](https://fieldswiki.herokuapp.com/locations)
+# Locations
 [Hexus Gate](https://fieldswiki.herokuapp.com/locations/hexus-gate#hexus-gate)
 [Earth](https://fieldswiki.herokuapp.com/locations/earth)
+
+# Resources
