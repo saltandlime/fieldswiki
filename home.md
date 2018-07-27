@@ -20,5 +20,6 @@ An overview of the Fields universe, including: characters, locations, storylines
 # Locations
 [Hexus Gate](https://fieldswiki.herokuapp.com/locations/hexus-gate#hexus-gate)
 [Earth](https://fieldswiki.herokuapp.com/locations/earth)
+[Root](https://fieldswiki.herokuapp.com/locations/root)
 
 # Resources
