@@ -1,6 +1,6 @@
 <!-- TITLE: Outlines -->
-<!-- SUBTITLE: A quick summary of Outlines -->
+<!-- SUBTITLE: A quick summary of Treatments -->
 
-# Outlines
-[v1](https://fieldswiki.herokuapp.com/outlines/v-1)
-[v2](https://fieldswiki.herokuapp.com/outlines/v-2)
+# Treatments
+[v1](https://fieldswiki.herokuapp.com/treatments/v-1)
+[v2](https://fieldswiki.herokuapp.com/treatments/v-2)
