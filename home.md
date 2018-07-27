@@ -5,6 +5,8 @@
 
 An overview of the Fields universe, including: characters, locations, storylines, artworks, timelines.
 
+# Story Summary
+
 # Characters
 
 [Eno Mimas](https://fieldswiki.herokuapp.com/characters/eno)
@@ -15,5 +17,6 @@ An overview of the Fields universe, including: characters, locations, storylines
 [Director Chiron](https://fieldswiki.herokuapp.com/characters/director-chiron)
 [AI](https://fieldswiki.herokuapp.com/characters/ai)
 
-# Locations
+# [Locations](https://fieldswiki.herokuapp.com/locations)
 [Hexus Gate](https://fieldswiki.herokuapp.com/locations/hexus-gate#hexus-gate)
+[Earth](https://fieldswiki.herokuapp.com/locations/earth)
